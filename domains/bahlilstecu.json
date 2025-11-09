@@ -1,0 +1,11 @@
+{
+  "description": "Minecraft server for Danszzz Store",
+  "repo": "https://github.com/danszzz31/register",
+  "owner": {
+    "username": "danszzz",
+    "email": "daanishantarfauzillah@gmail.com"
+  },
+  "record": {
+    "CNAME": ["hungry-hawk.trycloudflare.com"]
+  }
+}
